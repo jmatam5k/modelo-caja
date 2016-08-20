@@ -1,0 +1,23 @@
+div {
+    display: block;
+    margin: 150px 160px;
+    padding: 20px 15px 40px 70px;
+    background-color: #FFDEAD;
+    border-top: 10px solid  #9932CC;
+    border-bottom: 10px solid #9932CC;
+    border-right: 5px solid #9932CC;
+    border-left: 5px solid #9932CC;
+    width: 920px;
+    
+   
+}
+
+
+p {
+    display: block;
+    background-color: white;
+    border: 1.5px dashed;    
+    text-align: center;
+    padding: 5px;
+    color: black;
+}
